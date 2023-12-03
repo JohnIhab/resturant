@@ -1,0 +1,23 @@
+.numbers {
+    background-color: #a82d49;
+    padding: 25px 0px;
+    /* max-width: 100%; */
+    /* height: auto; */
+    text-align: center;
+    overflow: hidden;
+}
+.title {
+    color: #fff;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    margin: 10px 0px;
+    font-size: 40px ;
+}
+.description {
+    color: #fff;
+    font-family: 'Tajawal', sans-serif;
+    text-transform: uppercase;
+    
+    font-weight: bold;
+    letter-spacing: 1px;
+}

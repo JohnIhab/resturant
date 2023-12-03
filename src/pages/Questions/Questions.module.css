@@ -1,0 +1,32 @@
+.right {
+    margin: 0px 7px;
+    font-size: 28px;
+    color: #77132b;
+}
+.collection {
+    margin-left: -10px;
+}
+.title {
+    text-align: center;
+    margin: 4rem 0px 6rem !important;
+    color: #43121d;
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: bold;
+    font-family: 'Tajawal';
+}
+.subTitle {
+    color: #43121d;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    font-family: 'Tajawal';
+}
+.description {
+    font-size: 15px;
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+}

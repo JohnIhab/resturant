@@ -1,0 +1,45 @@
+.footer2 {
+    background: #a82d49;
+    padding: 80px 0 0;
+}
+.link {
+    color: #fff;
+    padding: 0 30px 0 0;
+    text-decoration: none;
+}
+.link:hover {
+    color: black;
+}
+.link2 {
+    font-size: 25px;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-top: 30px;
+    color: #fff;
+}
+.foot {
+    background: #a82d49;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 13px;
+    letter-spacing: 0.2px;
+}
+.facebook:hover {
+    color: #0c2c71;
+}
+.twitter:hover {
+    color: #00B6F1;
+}
+.youtube:hover {
+    color: #C31A1E;
+}
+.dribble:hover {
+    color: #333333;
+}
+.linkedin:hover {
+    color: #04669A;
+}
+.instagram:hover {
+    color: #2C6A93;
+}

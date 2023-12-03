@@ -1,0 +1,76 @@
+.header {
+    background: url('../../images/mainFood.png') center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: 500px;
+    overflow: hidden;
+    padding: 22px 0px;
+    margin-top: 4rem;
+}
+.raw {
+    margin: 50px 0px;
+}
+.title {
+    color: #7c0f28;
+    font-size: 57px;
+    line-height: 60px;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold ;
+    width: 80%;
+}
+.description {
+    margin: 30px 0px;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    color: #555555;
+    padding: 0 0 13px;
+}
+
+.main {
+    margin-top: 3rem;
+}
+
+.basket,
+.arrow {
+    margin-left: 16px;
+    margin-bottom: 5px;
+}
+.a1 {
+    text-decoration: none;
+    padding: 0.8rem 2rem;
+    background-color: #7c0f28;
+    border: 1px solid #7c0f28;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Tajawal', sans-serif;
+}
+.a1:hover {
+    transition: .2s ease-in-out;
+    background-color: #fff;
+    color: #ac2947;
+}
+.a2 {
+    text-decoration: none;
+    background-color: #fff;
+    padding: 0.8rem 2rem;
+    border: 1px solid #7c0f28;
+    box-sizing: border-box;
+    text-align: center;
+    color: #000;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Tajawal', sans-serif;
+}
+.a2:hover {
+    transition: .2s ease-in-out;
+    background-color: #ac2947;
+    color: #fff;
+}

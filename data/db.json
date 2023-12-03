@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "elmalomawy@gmail.com",
+      "password": "2584566",
+      "id": 5
+    },
+    {
+      "email": "",
+      "id": 6
+    },
+    {
+      "email": "jojo.joojo20002@gmail.com",
+      "password": "246824689",
+      "id": 7
+    }
+  ]
+}

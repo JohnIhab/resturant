@@ -1,0 +1,58 @@
+.ingredents {
+    margin-top: 10rem;
+}
+.photo {
+    margin-top: -3rem;
+    width: 100%;
+    height: 100%;
+}
+.title {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    width: 70%;
+    letter-spacing: 1px;
+    margin-bottom: 35px;
+    color: #77132b;
+}
+.description {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    color: #333;
+}
+.tasks {
+    list-style-type: none;
+    margin-top: 3rem;
+    padding: 0px;
+    margin-bottom: 2rem;
+}
+.task {
+    display: flex;
+}
+.subtask {
+    margin-left: 1rem;
+}
+.fire {
+    color: #7c0f28;
+    margin-top: .2rem;
+    font-size: 20px;
+}
+.a1 {
+    text-decoration: none;
+    padding: 0.8rem 2rem;
+    background-color: #7c0f28;
+    border: 1px solid #7c0f28;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    margin: 20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Tajawal', sans-serif;
+}
+.a1:hover {
+    transition: .2s ease-in-out;
+    background-color: #fff;
+    color: #ac2947;
+}
