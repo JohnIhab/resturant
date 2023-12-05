@@ -27,6 +27,8 @@
     margin-bottom: 16rem;
     display: flex !important;
     justify-content: center;
+    align-items: center;
+    /* margin: 0 auto; */
     transform: translate(37rem, 3rem);
 }
 .title {
@@ -49,7 +51,8 @@
     text-transform: capitalize;
     letter-spacing: 0.2px;
     color: #a82d49;
-    transform: translate(0px, 20px);
+    margin:  0 auto;
+    /* transform: translate(0px, 20px); */
 }
 .dot {
     margin-bottom: -4rem !important;

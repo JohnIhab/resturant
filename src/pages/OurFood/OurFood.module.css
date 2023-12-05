@@ -18,7 +18,8 @@
     text-align: center;
     letter-spacing: .5px;
     width: 68% !important;
-    transform: translate(20%, 10%);
+    /* transform: translate(20%, 10%); */
+    margin: 0 auto;
 }
 .photo {
     max-height: 65%;
